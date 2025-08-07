@@ -16,5 +16,5 @@
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?adovg=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adovg&layout=donut&theme=dark)
 
