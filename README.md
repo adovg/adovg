@@ -18,3 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adovg&layout=donut&theme=dark)
 
+### Contacts
+https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail
+
+[![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail)](mailto:oleksidovgalenko@gmail.com)
+
