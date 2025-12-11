@@ -17,6 +17,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adovg&layout=donut&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adovg)](https://github.com/adovg/github-readme-stats)
 
 ### Contacts
 
